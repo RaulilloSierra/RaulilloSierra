@@ -1,10 +1,10 @@
-# console.log("Hello, World! 👋")
+# console.log("Hello World! 👋")
 
 ## Mi nombre es Raul Sierra
 ### Aquí en GitHub como RaulilloSierra 😉
 
 ## Un poco de mí 😊
-Soy un desarrollador Full-Stack y estudiante de Ingeniería de Sistemas. Desde pequeño me ha gustado la tecnología, pero no fue hasta que estudié mi carrera que me enamoré del desarrollo web a pesar de que mi primer lenguaje de programación fue _Java_ 👻
+Soy un desarrollador Full-Stack y estudiante de Ingeniería de Software. Desde pequeño me ha gustado la tecnología, pero no fue hasta que estudié mi carrera que me enamoré del desarrollo web a pesar de que mi primer lenguaje de programación fue _Java_ 👻
 
 Me gusta todo lo que corresponde a la parte visual y como el usuario interactua con ello, así que podría decir que me inclino al desarrollo Front-End 🤭
 
