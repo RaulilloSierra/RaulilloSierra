@@ -23,10 +23,12 @@ Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de 
 * Lenguajes:
   * JavaScript
   * Python (aprendiendo)
+  * Java (intentándolo otra vez)
 
 * Front End:
    * React
    * Zustand
+   * Redux
    * Tailwind CSS
    * Boostrap
    * SCSS
