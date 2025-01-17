@@ -4,9 +4,9 @@
 ### Aquí en GitHub como RaulilloSierra 😉
 
 ## Un poco de mí 😊
-Soy un desarrollador Full-Stack y estudiante de Ingeniería de Software. Desde pequeño me ha gustado la tecnología, pero no fue hasta que estudié mi carrera que me enamoré del desarrollo web a pesar de que mi primer lenguaje de programación fue _Java_ 👻
+Soy un desarrollador web Full-Stack y estudiante de Ingeniería de Software. Desde pequeño me ha gustado la tecnología, pero no fue hasta que estudié mi carrera que me enamoré del desarrollo web a pesar de que mi primer lenguaje de programación fue _Java_ 👻
 
-Me gusta todo lo que corresponde a la parte visual y como el usuario interactua con ello, así que podría decir que me inclino al desarrollo Front-End 🤭
+Me gusta todo lo que corresponde a la parte visual y como el usuario interactua con ello, así que podría decir que me inclino al desarrollo Front-End🌟
 
 
 ## Actualmente yo... 🤔
@@ -22,12 +22,14 @@ Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de 
 
 * Lenguajes:
   * JavaScript
+  * TypeScript
   * Python (aprendiendo)
   * Java (intentándolo otra vez)
 
 * Front End:
    * React
    * Zustand
+   * Zod
    * Redux
    * Tailwind CSS
    * Boostrap
@@ -46,7 +48,7 @@ Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de 
 
 Y por supuesto, **HTML**, **CSS** y **GIT**
 
-## Hablemos 📠
+## Hablemos 📨
 
 No dudes en contactarme a través de los siguientes medios
 
