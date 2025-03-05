@@ -34,6 +34,7 @@ Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de 
    * Tailwind CSS
    * Boostrap
    * Sass
+   * Pug
 
 * Back End:
   * Node
