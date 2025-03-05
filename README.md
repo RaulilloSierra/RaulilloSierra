@@ -33,7 +33,7 @@ Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de 
    * Redux
    * Tailwind CSS
    * Boostrap
-   * SCSS
+   * Sass
 
 * Back End:
   * Node
