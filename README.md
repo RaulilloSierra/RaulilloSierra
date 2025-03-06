@@ -32,7 +32,7 @@ Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de 
    * Zod
    * Redux
    * Tailwind CSS
-   * Boostrap
+   * Bootstrap
    * Sass
    * Pug
 
